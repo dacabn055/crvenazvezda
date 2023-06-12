@@ -1,0 +1,41 @@
+
+@font-face {
+ font-family: 'adrip1';
+ src: url("./fonts/'adrip1.eot");
+ /* IE9 Compat Modes */
+ src: url("../fonts/adrip1.eot?#iefix") format('embedded-opentype'),
+  /* IE6-IE8 */
+  url("../fonts/adrip1.woff2") format('woff2'),
+  /* Super Modern Browsers */
+  url("../fonts/adrip1.woff") format('woff'),
+  /* Pretty Modern Browsers */
+  url("../fonts/adrip1.ttf") format('truetype'),
+  /* Safari, Android, iOS */
+  url("../fonts/adrip1.svg#svgFontName") format('svg');
+
+}
+*{
+ margin: 0;
+}
+.navbar {
+ background: blue;
+ height: 100px;
+ color: wheat;
+ font-size: 3rem;
+}
+.baner {
+ background: tomato;
+ height: calc(100wh -100px);
+}
+.ex{
+ background: turquoise;
+ width: 20rem;
+ height: 25rem;
+ overflow: scroll;
+}
+.ex{
+   font-family: 'adrip1', Fallback, sans-serif;
+}
+h1 {
+ font-family: 'adrip1', Fallback, sans-serif;
+}

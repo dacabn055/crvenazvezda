@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'Milky Boba';
+  src: url(./Milky+Boba.eot);
+  src: url(./Milky+Boba.eot?#iefix) format('embedded-opentype'),
+       url(./Milky+Boba.otf) format('otf'),
+       url(./Milky+Boba.svg#Milky%20Boba) format('svg'),
+       url(./Milky+Boba.ttf) format('truetype'),
+       url(./Milky+Boba.woff) format('woff'),
+       url(./Milky+Boba.woff2) format('woff2');
+}

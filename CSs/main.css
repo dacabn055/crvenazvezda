@@ -1,0 +1,67 @@
+
+@font-face {
+  font-family: 'Milky Boba';
+  src: url(./font2/Milky Boba.eot);
+  src: url(./fonts2/Milky Boba.eot?#iefix) format('embedded-opentype'),
+    url(./font2/Milky Boba.otf) format('otf'),
+    url(./font2/Milky Boba.svg#Milky%20Boba) format('svg'),
+    url(./font2/Milky Boba.ttf) format('truetype'),
+    url(./font2/Milky Boba.woff) format('woff'),
+    url(./font2/Milky Boba.woff2) format('woff2');
+}
+body{
+ background-image: url("../CSs/red-star.jpg");
+ font-family: 'Milky Boba';
+ font-size: 25px;
+ color:rgb(141, 15, 31);
+ 
+ 
+}
+
+ul{
+ list-style-type: none;
+ display: inline;
+}
+ul > li {
+ display: inline;
+}
+ul li a {
+ color: red;
+
+}
+.clas {
+ background: rgba(245, 222, 179 );
+ width: 960px;
+ height: 1050px;
+ margin: 0 auto;
+ color: darkred;
+ border: 3px dotted red;
+ font-size: 18px;
+ text-indent: 0.5cm;
+ 
+}
+.one {
+ margin: 0 auto;
+ text-align: center;
+ font-size: 60px;
+ font-style: italic;
+ 
+
+
+}
+.star{
+ color: darkred;
+ margin: 0 auto;
+ text-align: center;
+}
+.contact{
+ color: darkred;
+ margin: 0 auto;
+ text-align: start;
+ background: rgba(255, 6, 2, 0.5);
+ display: inline-block;
+}
+
+.seven{
+ color: aliceblue;
+}

@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'adrip1';
+  src: url(./adrip1.eot);
+  src: url(./adrip1.eot?#iefix) format('embedded-opentype'),
+       url(./adrip1.otf) format('otf'),
+       url(./adrip1.svg#adrip1) format('svg'),
+       url(./adrip1.ttf) format('truetype'),
+       url(./adrip1.woff) format('woff'),
+       url(./adrip1.woff2) format('woff2');
+}

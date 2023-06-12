@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'WhiteMonkey-Regular';
+  src: url(./WhiteMonkey-Regular.eot);
+  src: url(./WhiteMonkey-Regular.eot?#iefix) format('embedded-opentype'),
+       url(./WhiteMonkey-Regular.otf) format('otf'),
+       url(./WhiteMonkey-Regular.svg#WhiteMonkey-Regular) format('svg'),
+       url(./WhiteMonkey-Regular.ttf) format('truetype'),
+       url(./WhiteMonkey-Regular.woff) format('woff'),
+       url(./WhiteMonkey-Regular.woff2) format('woff2');
+}
